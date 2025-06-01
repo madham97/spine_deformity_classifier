@@ -1,6 +1,6 @@
 # Lumbar Spine Degenerative Classification
 
-This project focuses on developing a deep learning model to identify and localize key anatomical features in spinal MRI images, aiding in the detection of degenerative conditions.
+This project focuses on developing a deep learning model to identify and localize key anatomical features in spinal MRI images, aiding in the detection of degenerative conditions. Detailed report attached in Documentation.pdf
 
 ## Project Overview
 
